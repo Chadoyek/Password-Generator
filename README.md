@@ -17,7 +17,7 @@ This is a web-based application that generates secure passwords based on user-de
 
 ## Installation
 
-No installation is required. Simply visit the website here: 
+No installation is required. Simply visit the website here: https://chadoyek.github.io/Password-Generator/
 
 ## Usage
 

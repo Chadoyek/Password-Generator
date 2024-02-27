@@ -6,7 +6,7 @@ This is a web-based application that generates secure passwords based on user-de
 
 ## Preview
 
-<img src="./assets/screenshot.png>
+![Screenshot](./assets/screenshot.png)
 
 ## Features
 

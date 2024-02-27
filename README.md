@@ -2,9 +2,11 @@
 
 ## Overview
 
-This is a simple web-based application that generates secure passwords based on user-defined criteria. It provides users with a series of prompts to select password length and the types of characters to include.
+This is a web-based application that generates secure passwords based on user-defined criteria. It provides users with a series of prompts to select password length and the types of characters to include.
 
+## Preview
 
+<img src="./assets/screenshot.png>
 
 ## Features
 
